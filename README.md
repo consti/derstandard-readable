@@ -1,7 +1,9 @@
 derstandard-readable
 ====================
 
-Kleines Javascript Snippet, dass den Standard lesbarer machen soll
+Kleines Javascript Snippet, dass den Standard lesbarer machen soll.
+
+Besser ist eigentlich: readability.com - aber leider im Moment nicht verfügbar (bzw. hat es gerade Probleme mit derstandard.at).
 
 ####Was?
 
