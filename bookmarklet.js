@@ -1,0 +1,1 @@
+javascript:(function(css_url){ var c = document.createElement('link'); c.type = 'text/css'; c.rel = 'stylesheet'; c.href = css_url; document.getElementsByTagName("head")[0].appendChild(c);}("http://f.cl.ly/items/0c3L023m300U300N1v1x/readable.css"));
