@@ -1,0 +1,9 @@
+/* Header verstecken */
+#pagetop { display: none; }
+
+/* Footer verstecken */
+#toolbar { display: none; }
+
+/* Tools und Sidebar verstecken */
+#articleTools { display: none; }
+#weiterLesen { display: none; }
