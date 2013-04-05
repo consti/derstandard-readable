@@ -7,3 +7,28 @@
 /* Tools und Sidebar verstecken */
 #articleTools { display: none; }
 #weiterLesen { display: none; }
+
+/* Schriften anpassen */
+#artikelBody { 
+  font-size: 16px;
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  width: 585px;
+  margin-left: 334px;
+  line-height: 1.615;
+  color: #444;
+  vertical-align: baseline;
+}
+
+#artikelBody p {
+  margin: 0 0 1.5em;
+}
+
+
+/* Hintergrundfarbe */
+body {
+  background-color: #FFF;
+}
+
+#documentCanvas {
+  background-color: #FFF;
+}
