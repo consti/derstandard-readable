@@ -5,8 +5,7 @@
 #toolbar { display: none; }
 
 /* Tools und Sidebar verstecken */
-#articleTools { display: none; }
-#weiterLesen { display: none; }
+#articleTools, #weiterLesen { display: none; }
 
 /* Schriften anpassen */
 #artikelBody { 
